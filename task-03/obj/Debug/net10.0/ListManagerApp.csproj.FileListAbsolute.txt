@@ -1,0 +1,15 @@
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/bin/Debug/net10.0/ListManagerApp
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/bin/Debug/net10.0/ListManagerApp.deps.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/bin/Debug/net10.0/ListManagerApp.runtimeconfig.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/bin/Debug/net10.0/ListManagerApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/bin/Debug/net10.0/ListManagerApp.pdb
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/ListManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/ListManagerApp.AssemblyInfoInputs.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/ListManagerApp.AssemblyInfo.cs
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/ListManagerApp.csproj.CoreCompileInputs.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/ListManagerApp.sourcelink.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/ListManagerApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/refint/ListManagerApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/ListManagerApp.pdb
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/ListManagerApp.genruntimeconfig.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-03/obj/Debug/net10.0/ref/ListManagerApp.dll
