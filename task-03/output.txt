@@ -1,0 +1,68 @@
+nandhiraja@Mac task-03 % dotnet run
+Welcome to the Task Manager!
+
+Menu:
+1. Add a task
+2. Remove a task
+3. Display all tasks
+4. Exit
+Choose an option: 1
+Enter task to add: Complete C#
+Task 'COMPLETE C#' added successfully.
+
+Menu:
+1. Add a task
+2. Remove a task
+3. Display all tasks
+4. Exit
+Choose an option: 1
+Enter task to add: Complete Sql
+Task 'COMPLETE SQL' added successfully.
+
+Menu:
+1. Add a task
+2. Remove a task
+3. Display all tasks
+4. Exit
+Choose an option: 3
+
+Current Tasks:
+1. Complete C#
+2. Complete Sql
+
+Menu:
+1. Add a task
+2. Remove a task
+3. Display all tasks
+4. Exit
+Choose an option: 2
+Enter task to remove: 1
+Task not found.
+
+Menu:
+1. Add a task
+2. Remove a task
+3. Display all tasks
+4. Exit
+Choose an option: 2
+Enter task to remove: Complete C#
+Task 'COMPLETE C#' removed successfully.
+
+Menu:
+1. Add a task
+2. Remove a task
+3. Display all tasks
+4. Exit
+Choose an option: 3
+
+Current Tasks:
+1. Complete Sql
+
+Menu:
+1. Add a task
+2. Remove a task
+3. Display all tasks
+4. Exit
+Choose an option: 4
+Exiting Task Manager. Goodbye!
+nandhiraja@Mac task-03 % 

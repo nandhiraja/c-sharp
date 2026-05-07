@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListManagerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31d056618bbf31b5c4edff5706c7436f66dcf2c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f763b277981a281e092f93231dba85cbb4cbbff1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListManagerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListManagerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
