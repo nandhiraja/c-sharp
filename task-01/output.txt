@@ -1,0 +1,5 @@
+nandhiraja@Mac task-01 % dotnet run
+Factorial Calculator
+Enter a positive integer : 4
+The factorial of 4 is 24
+nandhiraja@Mac task-01 % 

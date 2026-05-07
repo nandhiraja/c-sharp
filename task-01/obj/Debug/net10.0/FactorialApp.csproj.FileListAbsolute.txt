@@ -12,3 +12,4 @@
 /Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.pdb
 /Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.genruntimeconfig.cache
 /Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/ref/FactorialApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.sourcelink.json
