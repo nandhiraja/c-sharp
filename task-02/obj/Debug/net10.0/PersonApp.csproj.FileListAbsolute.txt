@@ -12,3 +12,4 @@
 /Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-02/obj/Debug/net10.0/PersonApp.pdb
 /Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-02/obj/Debug/net10.0/PersonApp.genruntimeconfig.cache
 /Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-02/obj/Debug/net10.0/ref/PersonApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-02/obj/Debug/net10.0/PersonApp.sourcelink.json

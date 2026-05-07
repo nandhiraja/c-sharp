@@ -1,0 +1,5 @@
+nandhiraja@Mac task-02 % dotnet run
+Hello, my name is Alice and I am 30 years old.
+Hello, my name is Bob and I am 25 years old.
+Hello, my name is Charlie and I am 35 years old.
+nandhiraja@Mac task-02 % 
