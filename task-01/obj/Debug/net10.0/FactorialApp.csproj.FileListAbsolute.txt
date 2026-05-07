@@ -1,0 +1,14 @@
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/bin/Debug/net10.0/FactorialApp
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/bin/Debug/net10.0/FactorialApp.deps.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/bin/Debug/net10.0/FactorialApp.runtimeconfig.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/bin/Debug/net10.0/FactorialApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/bin/Debug/net10.0/FactorialApp.pdb
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.AssemblyInfoInputs.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.AssemblyInfo.cs
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.csproj.CoreCompileInputs.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/refint/FactorialApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.pdb
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/FactorialApp.genruntimeconfig.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-01/obj/Debug/net10.0/ref/FactorialApp.dll
