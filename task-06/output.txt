@@ -1,0 +1,14 @@
+nandhiraja@Mac task-06 % dotnet run
+Event-Driven Application Started...
+Adding numbers to the counter in a loop...
+
+Adding 1... (Current Total: 0)
+Adding 1... (Current Total: 1)
+Adding 1... (Current Total: 2)
+Adding 1... (Current Total: 3)
+Adding 1... (Current Total: 4)
+   --> [LOG]: Threshold of 5 was reached at 20:33:42.
+   --> [ALERT]: Warning! The counter has hit the maximum limit of 5!
+
+Application finished.
+nandhiraja@Mac task-06 % 
