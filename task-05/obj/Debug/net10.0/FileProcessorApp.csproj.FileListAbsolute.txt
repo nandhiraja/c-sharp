@@ -1,0 +1,15 @@
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/bin/Debug/net10.0/FileProcessorApp
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/bin/Debug/net10.0/FileProcessorApp.deps.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/bin/Debug/net10.0/FileProcessorApp.runtimeconfig.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/bin/Debug/net10.0/FileProcessorApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/bin/Debug/net10.0/FileProcessorApp.pdb
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/FileProcessorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/FileProcessorApp.AssemblyInfoInputs.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/FileProcessorApp.AssemblyInfo.cs
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/FileProcessorApp.csproj.CoreCompileInputs.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/FileProcessorApp.sourcelink.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/FileProcessorApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/refint/FileProcessorApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/FileProcessorApp.pdb
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/FileProcessorApp.genruntimeconfig.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-05/obj/Debug/net10.0/ref/FileProcessorApp.dll
