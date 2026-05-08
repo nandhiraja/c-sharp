@@ -1,0 +1,8 @@
+nandhiraja@Mac task-04 % dotnet run
+Students with a grade above 80:
+
+Name: Alice      | Age: 20  | Grade: 88.5
+Name: Charlie    | Age: 21  | Grade: 95.5
+Name: Eve        | Age: 20  | Grade: 91.0
+Name: Frank      | Age: 22  | Grade: 85.0
+nandhiraja@Mac task-04 % 
