@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+We will use this file to test our File I/O application in C#.
+This is the fourth and final line!
