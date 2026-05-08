@@ -1,0 +1,15 @@
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/bin/Debug/net10.0/EventApp
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/bin/Debug/net10.0/EventApp.deps.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/bin/Debug/net10.0/EventApp.runtimeconfig.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/bin/Debug/net10.0/EventApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/bin/Debug/net10.0/EventApp.pdb
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/EventApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/EventApp.AssemblyInfoInputs.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/EventApp.AssemblyInfo.cs
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/EventApp.csproj.CoreCompileInputs.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/EventApp.sourcelink.json
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/EventApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/refint/EventApp.dll
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/EventApp.pdb
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/EventApp.genruntimeconfig.cache
+/Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-06/obj/Debug/net10.0/ref/EventApp.dll
