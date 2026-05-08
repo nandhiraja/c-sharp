@@ -1,0 +1,17 @@
+nandhiraja@Mac task-07 % dotnet run                                                                                    
+Starting asynchronous operations...
+
+Simulating fetch from Source A... (Expected Delay: 2000ms)
+Simulating fetch from Source B... (Expected Delay: 1500ms)
+Simulating fetch from Source C... (Expected Delay: 1000ms)
+[Global Error caught by Task.WhenAll]: Simulated API failure connecting to 'Source C'.
+
+Aggregating individual results of all completed tasks:
+  -> SUCCESS: Data successfully loaded from Source A
+  -> SUCCESS: Data successfully loaded from Source B
+  -> FAILED:  Simulated API failure connecting to 'Source C'.
+
+Total successful operations aggregated: 2
+
+All asynchronous operations finished.
+nandhiraja@Mac task-07 % 
