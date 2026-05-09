@@ -1,0 +1,19 @@
+nandhiraja@Mac task-09 % dotnet run
+Starting Reflection Application...
+
+Scanning assembly for [Runnable] methods...
+
+Found method: DataProcessor.CleanupTempFiles
+Description : Cleans up temporary data files
+    [Executing] DataProcessor.CleanupTempFiles(): Temporary files cleaned up.
+
+Found method: DataProcessor.GenerateReports
+Description : Generates daily reports
+    [Executing] DataProcessor.GenerateReports(): Daily reports generated. (Static Method)
+
+Found method: SystemChecks.CheckDatabase
+Description : Checks database connectivity
+    [Executing] SystemChecks.CheckDatabase(): Database connection successful.
+
+Reflection scan and execution completed.
+nandhiraja@Mac task-09 % 
