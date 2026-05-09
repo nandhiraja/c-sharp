@@ -1,0 +1,25 @@
+nandhiraja@Mac task-08 % dotnet run
+Generic Repository Pattern Demo
+
+--- Adding Products ---
+Current Products in Repository:
+  [Product] ID: 1, Name: Laptop, Price: $1200.00
+  [Product] ID: 2, Name: Smartphone, Price: $800.00
+  [Product] ID: 3, Name: Headphones, Price: $150.00
+
+--- Getting Product with ID 2 ---
+Found: [Product] ID: 2, Name: Smartphone, Price: $800.00
+
+--- Updating Product with ID 1 ---
+Current Products in Repository:
+  [Product] ID: 1, Name: Laptop (On Sale), Price: $1050.00
+  [Product] ID: 2, Name: Smartphone, Price: $800.00
+  [Product] ID: 3, Name: Headphones, Price: $150.00
+
+--- Deleting Product with ID 3 ---
+Current Products in Repository:
+  [Product] ID: 1, Name: Laptop (On Sale), Price: $1050.00
+  [Product] ID: 2, Name: Smartphone, Price: $800.00
+
+Demo completed.
+nandhiraja@Mac task-08 % 
