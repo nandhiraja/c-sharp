@@ -1,0 +1,13 @@
+nandhiraja@Mac MiniStoreApi.Tests % dotnet test
+Restore complete (0.3s)
+  MiniStoreApi net10.0 succeeded (0.2s) → /Users/nandhiraja/Presidio-Internship/SelfLearning/c-sharp/task-10/MiniStoreApi/bin/Debug/net10.0/MiniStoreApi.dll
+  MiniStoreApi.Tests net10.0 succeeded (0.1s) → bin/Debug/net10.0/MiniStoreApi.Tests.dll
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v3.1.4+50e68bbb8b (64-bit .NET 10.0.7)
+[xUnit.net 00:00:00.04]   Discovering: MiniStoreApi.Tests
+[xUnit.net 00:00:00.05]   Discovered:  MiniStoreApi.Tests
+[xUnit.net 00:00:00.06]   Starting:    MiniStoreApi.Tests
+[xUnit.net 00:00:00.36]   Finished:    MiniStoreApi.Tests
+  MiniStoreApi.Tests test net10.0 succeeded (0.9s)
+
+Test summary: total: 7, failed: 0, succeeded: 7, skipped: 0, duration: 0.9s
+Build succeeded in 1.7s
