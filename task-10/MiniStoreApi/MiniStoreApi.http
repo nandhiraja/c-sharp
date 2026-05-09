@@ -1,0 +1,6 @@
+@MiniStoreApi_HostAddress = http://localhost:5034
+
+GET {{MiniStoreApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
